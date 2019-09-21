@@ -5,7 +5,7 @@ metadata:
 spec:
   selector:
     app: producer
-  type: NodePord 
+  type: NodePort 
   ports:
   - name: http 
     port: 80  
